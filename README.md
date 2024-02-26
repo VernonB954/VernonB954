@@ -1,4 +1,5 @@
-<h1>Hi, I'm Vernon, an <a href="https://linkedin.com/in/vernonboothe">IT Professional</a>☺</h1>
+<h1>Hi, I'm Vernon, an <a href="https://linkedin.com/in/vernonboothe">IT Professional  ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
