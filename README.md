@@ -1,6 +1,9 @@
-<h1>Hi, I'm Vernon, an <a href="https://linkedin.com/in/vernonboothe">IT Professional  ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
+![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
+- 🧠 Constantly improving my skillset, GRC is becoming my passion.
 
+- 🗃 Activel pursuing Certifications: Sec+ Net+ AWS Cloud Practitioner
+  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
